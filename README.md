@@ -2,7 +2,7 @@
 ### About Me
  - frontend developer 👨‍💻
  - 2nd year student of RTU MIREA 📖
- - crypto trader / stock market investor 📈
+ - stock market investor 📈
  - Inspired by music, coffee, self-development, and books ✨
 
 ---
