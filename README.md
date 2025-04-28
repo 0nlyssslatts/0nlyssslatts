@@ -1,7 +1,7 @@
 # Hello wrld, I'm Ivan 👋
 ### About Me
  - frontend developer 👨‍💻
- - 3nd year student of RTU MIREA 📖
+ - 2nd year student of RTU MIREA 📖
  - stock market investor 📈
  - Inspired by music, coffee, self-development, and books ✨
 
