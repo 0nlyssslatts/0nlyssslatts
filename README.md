@@ -1,8 +1,7 @@
 # Hello wrld, I'm Ivan 👋
 ### About Me
  - frontend developer 👨‍💻
- - stock market investor 📈
- - Inspired by music, coffee, self-development, and books ✨
+ - Inspired by music, coffee, self-development and books ✨
 
 ---
 
